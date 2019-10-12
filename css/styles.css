@@ -1,0 +1,40 @@
+body{
+    font-size: 300%;
+    text-align: center;
+}
+.row_1{
+    background-color: gray;
+    color: white;
+}
+.row_1p{
+    padding-right: 1rem;
+    
+}
+.row_2{
+    background-color: #D3D3D3;
+    color: black;
+}
+
+.col_1{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+
+}
+.col_2{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    
+}
+    
+.col_4{
+    background-color: rgb(219, 144, 24);
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left:1px solid black;
+    color: white;
+    border-top:1px solid black;
+    
+}
